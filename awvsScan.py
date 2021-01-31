@@ -13,9 +13,9 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings()
 
 # AWVS 默认配置信息
-api_key = "1986ad8c0a5b3df4d7028d5f3c06e936cbef4c30ef4914f53a471d85f4448d84c"
-awvs_url = "https://127.0.0.1:13443/"
-awvs_email = "admin@admin.com"
+api_key = ""
+awvs_url = ""
+awvs_email = ""
 
 # AWVS 扫描配置信息
 scan_speed = "slow"
