@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-# @Author  : P2hm1n
+# @Author  : M13n
 # @Software: PyCharm
-# @Blog    ：https://p2hm1n.com/
 
 import requests
 import sys
