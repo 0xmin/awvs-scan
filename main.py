@@ -415,7 +415,7 @@ def main():
                        scan_number,
                        input_file_c)
         elif choose == 6:
-            print("vx: U2VjLU1pbgo=", "欢迎私戳")
+            print("vx: TTEzblNlYwo=", "欢迎私戳")
         else:
             print("您的选项有误，请选择正确的选项")
             sys.exit()
