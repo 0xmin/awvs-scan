@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author  : M13n
-# @Software: PyCharm
-
 import requests
 import sys
 import json
