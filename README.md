@@ -1,4 +1,4 @@
-![awvs-scan](https://socialify.git.ci/0xmin/awvs-scan/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
+![awvs-scan](https://socialify.git.ci/0xmin/awvs-scan/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 ## 主要功能
 
