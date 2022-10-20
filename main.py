@@ -373,7 +373,6 @@ def main():
 3. 批量添加 url 至 AWVS Targets 列表，但不进行扫描
 4. 批量添加 url 至 AWVS Targets 列表，并进行主动扫描（可控制同时扫描的任务数量）
 5. 批量添加 url 至 AWVS Targets 列表，仅爬虫模式，联动 Xray 进行扫描（可控制同时扫描的任务数量）
-6. 对于脚本有更好的建议
             """)
         while True:
             try:
@@ -410,8 +409,6 @@ def main():
                        scan_speed,
                        scan_number,
                        input_file_c)
-        elif choose == 6:
-            print("vx: TTEzblNlYwo=", "欢迎私戳")
         else:
             print("您的选项有误，请选择正确的选项")
             sys.exit()
